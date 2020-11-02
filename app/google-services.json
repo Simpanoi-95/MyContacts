@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "209839561802",
+    "firebase_url": "https://mycontacts-e9cc4.firebaseio.com",
+    "project_id": "mycontacts-e9cc4",
+    "storage_bucket": "mycontacts-e9cc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209839561802:android:55d3f1db354e3e10531ab3",
+        "android_client_info": {
+          "package_name": "com.example.mycontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209839561802-niqdr781ie6vedejs9i12ijdgo2f0781.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJq-JDhWcN2EQqpHBvvIOsZD6L_oPQYbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209839561802-niqdr781ie6vedejs9i12ijdgo2f0781.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

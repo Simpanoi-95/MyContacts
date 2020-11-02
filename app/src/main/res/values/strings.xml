@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyContacts</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter name</string>
+    <string name="content">TODO</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="fab_content_desc">source</string>
+    <string name="button">Button</string>
+    <string name="add">ADD</string>
+    <string name="Name">Name</string>
+</resources>
